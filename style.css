@@ -1,0 +1,28 @@
+<style>
+body{
+    margin 0;
+    padding 0;
+    background-image: url("Screen Shot 2020-02-21 at 12.43.25 PM");
+}
+h1{
+  text-align: center;
+  color: white;
+}
+h2{
+    color: black;
+}
+}
+p{color: white;
+font-size: 19px;}
+img{width: 50%;
+height:50%;
+border-radius: 150px;
+border: 5px solid black;}
+#lightlayer{
+    margin: 50px auto;
+    width: 1000px;
+    height: 600px;
+    background-color: rgba(0,0,0.5);
+    border-radius: 9px;
+}
+</style>
